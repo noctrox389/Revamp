@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SoulTails1.png" width="1131" height="1000">
+  <SubTexture name="TailsUp0001_copy_172x267.png" x="0" y="0"  width="172" height="267" frameX="-0" frameY="-0" frameWidth="172" frameHeight="267"/>
+  <SubTexture name="TailsUp0000_copy_172x267.png" x="0" y="267"  width="172" height="261" frameX="-0" frameY="-6" frameWidth="172" frameHeight="267"/>
+  <SubTexture name="TailsUp0002_copy_172x267.png" x="0" y="528"  width="172" height="260" frameX="-0" frameY="-7" frameWidth="172" frameHeight="267"/>
+  <SubTexture name="TailsIdle0006_copy_147x217.png" x="0" y="788"  width="145" height="212" frameX="-1" frameY="-5" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0016_copy_147x217.png" x="145" y="788"  width="141" height="212" frameX="-0" frameY="-5" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsRight0001_copy_185x233.png" x="172" y="0"  width="183" height="233" frameX="-2" frameY="-0" frameWidth="185" frameHeight="233"/>
+  <SubTexture name="TailsRight0002_copy_185x233.png" x="172" y="233"  width="177" height="228" frameX="-1" frameY="-5" frameWidth="185" frameHeight="233"/>
+  <SubTexture name="TailsRight0000_copy_185x233.png" x="172" y="461"  width="183" height="225" frameX="-2" frameY="-8" frameWidth="185" frameHeight="233"/>
+  <SubTexture name="TailsIdle0009_copy_147x217.png" x="349" y="233"  width="141" height="217" frameX="-0" frameY="-0" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0010_copy_147x217.png" x="355" y="0"  width="141" height="217" frameX="-0" frameY="-0" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0011_copy_147x217.png" x="286" y="686"  width="141" height="216" frameX="-0" frameY="-1" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0008_copy_147x217.png" x="355" y="450"  width="140" height="216" frameX="-1" frameY="-1" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0007_copy_147x217.png" x="490" y="217"  width="142" height="215" frameX="-1" frameY="-2" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0012_copy_147x217.png" x="496" y="0"  width="141" height="215" frameX="-0" frameY="-2" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0013_copy_147x217.png" x="427" y="666"  width="141" height="214" frameX="-0" frameY="-3" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0014_copy_147x217.png" x="495" y="432"  width="141" height="214" frameX="-0" frameY="-3" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0015_copy_147x217.png" x="632" y="215"  width="141" height="213" frameX="-0" frameY="-4" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0005_copy_147x217.png" x="637" y="0"  width="144" height="209" frameX="-2" frameY="-8" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0004_copy_147x217.png" x="568" y="646"  width="145" height="206" frameX="-2" frameY="-11" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0003_copy_147x217.png" x="636" y="852" width="203" height="144" rotated="true"  frameX="-3" frameY="-14" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0001_copy_147x217.png" x="839" y="852" width="205" height="140" rotated="true"  frameX="-7" frameY="-12" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0002_copy_147x217.png" x="636" y="428"  width="140" height="205" frameX="-7" frameY="-12" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsIdle0000_copy_147x217.png" x="773" y="209"  width="139" height="205" frameX="-7" frameY="-12" frameWidth="147" frameHeight="217"/>
+  <SubTexture name="TailsLeft0000_copy_206x176.png" x="781" y="0" width="176" height="203" rotated="true"  frameX="-0" frameY="-0" frameWidth="206" frameHeight="176"/>
+  <SubTexture name="TailsLeft0001_copy_206x176.png" x="713" y="633" width="175" height="203" rotated="true"  frameX="-0" frameY="-1" frameWidth="206" frameHeight="176"/>
+  <SubTexture name="TailsDown0002_copy_168x199.png" x="776" y="414"  width="166" height="199" frameX="-1" frameY="-0" frameWidth="168" frameHeight="199"/>
+  <SubTexture name="TailsDown0001_copy_168x199.png" x="912" y="203"  width="168" height="197" frameX="-0" frameY="-2" frameWidth="168" frameHeight="199"/>
+  <SubTexture name="TailsLeft0002_copy_206x176.png" x="957" y="0" width="174" height="195" rotated="true"  frameX="-10" frameY="-2" frameWidth="206" frameHeight="176"/>
+  <SubTexture name="TailsLeft0003_copy_206x176.png" x="888" y="613" width="173" height="194" rotated="true"  frameX="-12" frameY="-3" frameWidth="206" frameHeight="176"/>
+  <SubTexture name="TailsDown0000_copy_168x199.png" x="942" y="400"  width="168" height="193" frameX="-0" frameY="-6" frameWidth="168" frameHeight="199"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Sonic.exe1.png" width="1299" height="1229">
+  <SubTexture name="sonicSPOOK0024_copy_288x364.png" x="0" y="0"  width="288" height="364" frameX="-0" frameY="-0" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0000_copy_288x364.png" x="0" y="364"  width="227" height="289" frameX="-29" frameY="-69" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0001_copy_288x364.png" x="0" y="653"  width="227" height="289" frameX="-29" frameY="-62" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0004_copy_288x364.png" x="0" y="942" width="170" height="287" rotated="true"  frameX="-0" frameY="-40" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0020_copy_288x364.png" x="170" y="942" width="176" height="280" rotated="true"  frameX="-4" frameY="-21" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0008_copy_288x364.png" x="346" y="942" width="172" height="278" rotated="true"  frameX="-5" frameY="-25" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0014_copy_288x364.png" x="518" y="942" width="172" height="277" rotated="true"  frameX="-6" frameY="-25" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0019_copy_288x364.png" x="690" y="942" width="191" height="276" rotated="true"  frameX="-0" frameY="-0" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0013_copy_288x364.png" x="881" y="942" width="191" height="275" rotated="true"  frameX="-5" frameY="-10" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0023_copy_288x364.png" x="1072" y="942"  width="227" height="261" frameX="-29" frameY="-83" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0011_copy_288x364.png" x="227" y="364" width="185" height="275" rotated="true"  frameX="-8" frameY="-13" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0010_copy_288x364.png" x="227" y="639" width="175" height="275" rotated="true"  frameX="-7" frameY="-23" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0009_copy_288x364.png" x="402" y="639" width="198" height="274" rotated="true"  frameX="-7" frameY="-0" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0015_copy_288x364.png" x="600" y="639" width="198" height="274" rotated="true"  frameX="-7" frameY="-0" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0007_copy_288x364.png" x="288" y="0" width="195" height="274" rotated="true"  frameX="-7" frameY="-3" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0012_copy_288x364.png" x="412" y="274" width="186" height="274" rotated="true"  frameX="-7" frameY="-12" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0018_copy_288x364.png" x="483" y="0" width="186" height="274" rotated="true"  frameX="-0" frameY="-0" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0017_copy_288x364.png" x="598" y="274" width="185" height="274" rotated="true"  frameX="-0" frameY="-0" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0006_copy_288x364.png" x="669" y="0" width="179" height="274" rotated="true"  frameX="-8" frameY="-19" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0016_copy_288x364.png" x="783" y="274" width="175" height="274" rotated="true"  frameX="-7" frameY="-23" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0021_copy_288x364.png" x="848" y="0" width="158" height="274" rotated="true"  frameX="-9" frameY="-40" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0005_copy_288x364.png" x="1006" y="0"  width="269" height="161" frameX="-11" frameY="-38" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0002_copy_288x364.png" x="1006" y="161" width="241" height="227" rotated="true"  frameX="-29" frameY="-61" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0022_copy_288x364.png" x="958" y="388"  width="241" height="211" frameX="-27" frameY="-23" frameWidth="288" frameHeight="364"/>
+  <SubTexture name="sonicSPOOK0003_copy_288x364.png" x="958" y="599"  width="241" height="198" frameX="-27" frameY="-12" frameWidth="288" frameHeight="364"/>
+</TextureAtlas>

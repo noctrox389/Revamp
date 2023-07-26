@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="sanic1.png" width="1795" height="1797">
+  <SubTexture name="PAINTleft0000_copy_568x370.png" x="0" y="0"  width="547" height="339" frameX="-4" frameY="-31" frameWidth="568" frameHeight="370"/>
+  <SubTexture name="PAINTright0002_copy_670x597.png" x="547" y="0" width="540" height="389" rotated="true"  frameX="-138" frameY="-57" frameWidth="670" frameHeight="597"/>
+  <SubTexture name="PAINTleft0001_copy_568x370.png" x="0" y="339"  width="537" height="339" frameX="-20" frameY="-31" frameWidth="568" frameHeight="370"/>
+  <SubTexture name="PAINTright0001_copy_670x597.png" x="1087" y="0" width="534" height="403" rotated="true"  frameX="-152" frameY="-63" frameWidth="670" frameHeight="597"/>
+  <SubTexture name="PAINTdown0001_copy_152x139.png" x="1621" y="389"  width="152" height="49" frameX="-0" frameY="-90" frameWidth="152" frameHeight="139"/>
+  <SubTexture name="PAINTdown0000_copy_152x139.png" x="1621" y="0"  width="147" height="51" frameX="-2" frameY="-88" frameWidth="152" frameHeight="139"/>
+  <SubTexture name="PAINTleft0002_copy_568x370.png" x="537" y="389"  width="515" height="339" frameX="-53" frameY="-31" frameWidth="568" frameHeight="370"/>
+  <SubTexture name="PAINTup0002_copy_746x619.png" x="0" y="678"  width="501" height="422" frameX="-103" frameY="-138" frameWidth="746" frameHeight="619"/>
+  <SubTexture name="PAINTdown0002_copy_152x139.png" x="1621" y="51" width="120" height="115" rotated="true"  frameX="-19" frameY="-18" frameWidth="152" frameHeight="139"/>
+  <SubTexture name="PAINTright0000_copy_670x597.png" x="1052" y="403" width="498" height="395" rotated="true"  frameX="-167" frameY="-99" frameWidth="670" frameHeight="597"/>
+  <SubTexture name="PAINTup0000_copy_746x619.png" x="501" y="728" width="493" height="435" rotated="true"  frameX="-130" frameY="-67" frameWidth="746" frameHeight="619"/>
+  <SubTexture name="PAINTup0001_copy_746x619.png" x="0" y="1100" width="464" height="454" rotated="true"  frameX="-122" frameY="-96" frameWidth="746" frameHeight="619"/>
+  <SubTexture name="PAINTidle0002_copy_376x310.png" x="464" y="1163" width="297" height="359" rotated="true"  frameX="-1" frameY="-13" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0010_copy_376x310.png" x="464" y="1522"  width="319" height="275" frameX="-0" frameY="-0" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0011_copy_376x310.png" x="783" y="1522"  width="319" height="275" frameX="-0" frameY="-0" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0008_copy_376x310.png" x="761" y="1163" width="273" height="316" rotated="true"  frameX="-0" frameY="-2" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0007_copy_376x310.png" x="994" y="798" width="271" height="305" rotated="true"  frameX="-0" frameY="-4" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0006_copy_376x310.png" x="1034" y="1103" width="271" height="301" rotated="true"  frameX="-0" frameY="-4" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0004_copy_376x310.png" x="1265" y="798" width="267" height="298" rotated="true"  frameX="-0" frameY="-8" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0000_copy_376x310.png" x="1532" y="798" width="263" height="293" rotated="true"  frameX="-1" frameY="-12" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0001_copy_376x310.png" x="1532" y="1091" width="263" height="293" rotated="true"  frameX="-1" frameY="-12" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0003_copy_376x310.png" x="464" y="1163" width="297" height="359" rotated="true"  frameX="-1" frameY="-13" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0005_copy_376x310.png" x="1265" y="798" width="267" height="298" rotated="true"  frameX="-0" frameY="-8" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0009_copy_376x310.png" x="761" y="1163" width="273" height="316" rotated="true"  frameX="-0" frameY="-2" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0012_copy_376x310.png" x="783" y="1522"  width="319" height="275" frameX="-0" frameY="-0" frameWidth="376" frameHeight="310"/>
+  <SubTexture name="PAINTidle0013_copy_376x310.png" x="783" y="1522"  width="319" height="275" frameX="-0" frameY="-0" frameWidth="376" frameHeight="310"/>
+</TextureAtlas>

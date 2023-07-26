@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="encore gf1.png" width="413" height="492">
+  <SubTexture name="idle0006_copy_114x190.png" x="0" y="0" width="190" height="114" rotated="true"  frameX="-0" frameY="-0" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="idle0008_copy_114x190.png" x="190" y="0" width="190" height="114" rotated="true"  frameX="-0" frameY="-0" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="idle0004_copy_114x190.png" x="0" y="114"  width="113" height="189" frameX="-0" frameY="-1" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="idle0002_copy_114x190.png" x="0" y="303"  width="112" height="189" frameX="-1" frameY="-1" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="idle0000_copy_114x190.png" x="112" y="303"  width="113" height="188" frameX="-0" frameY="-2" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="scared0000_copy_112x188.png" x="113" y="114"  width="112" height="188" frameX="-0" frameY="-0" frameWidth="112" frameHeight="188"/>
+  <SubTexture name="scared0001_copy_112x188.png" x="225" y="114" width="188" height="112" rotated="true"  frameX="-0" frameY="-0" frameWidth="112" frameHeight="188"/>
+  <SubTexture name="scared0002_copy_112x188.png" x="225" y="226" width="188" height="112" rotated="true"  frameX="-0" frameY="-0" frameWidth="112" frameHeight="188"/>
+  <SubTexture name="scared0003_copy_112x188.png" x="225" y="338" width="188" height="112" rotated="true"  frameX="-0" frameY="-0" frameWidth="112" frameHeight="188"/>
+  <SubTexture name="idle0001_copy_114x190.png" x="112" y="303"  width="113" height="188" frameX="-0" frameY="-2" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="idle0003_copy_114x190.png" x="0" y="303"  width="112" height="189" frameX="-1" frameY="-1" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="idle0005_copy_114x190.png" x="0" y="114"  width="113" height="189" frameX="-0" frameY="-1" frameWidth="114" frameHeight="190"/>
+  <SubTexture name="idle0007_copy_114x190.png" x="0" y="0" width="190" height="114" rotated="true"  frameX="-0" frameY="-0" frameWidth="114" frameHeight="190"/>
+</TextureAtlas>

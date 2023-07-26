@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="eggman_soul1.png" width="697" height="785">
+  <SubTexture name="Eggman_Up0000_copy_187x205.png" x="0" y="0"  width="186" height="205" frameX="-0" frameY="-0" frameWidth="187" frameHeight="205"/>
+  <SubTexture name="Eggman_Up0002_copy_187x205.png" x="0" y="205"  width="186" height="202" frameX="-1" frameY="-3" frameWidth="187" frameHeight="205"/>
+  <SubTexture name="Eggman_Right0000_copy_175x190.png" x="0" y="407"  width="174" height="189" frameX="-0" frameY="-1" frameWidth="175" frameHeight="190"/>
+  <SubTexture name="Eggman_Right0002_copy_175x190.png" x="0" y="596"  width="174" height="189" frameX="-0" frameY="-1" frameWidth="175" frameHeight="190"/>
+  <SubTexture name="Eggman_Left0000_copy_169x170.png" x="174" y="407"  width="169" height="170" frameX="-0" frameY="-0" frameWidth="169" frameHeight="170"/>
+  <SubTexture name="Eggman_Left0002_copy_169x170.png" x="174" y="577"  width="166" height="169" frameX="-3" frameY="-1" frameWidth="169" frameHeight="170"/>
+  <SubTexture name="Eggman_Down0000_copy_150x121.png" x="340" y="577" width="112" height="150" rotated="true"  frameX="-0" frameY="-9" frameWidth="150" frameHeight="121"/>
+  <SubTexture name="Eggman_Down0002_copy_150x121.png" x="452" y="577" width="115" height="149" rotated="true"  frameX="-0" frameY="-6" frameWidth="150" frameHeight="121"/>
+  <SubTexture name="Eggman_Idle0008_copy_126x145.png" x="567" y="577"  width="125" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0010_copy_126x145.png" x="186" y="0"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0011_copy_126x145.png" x="186" y="145"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0012_copy_126x145.png" x="310" y="0"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0013_copy_126x145.png" x="310" y="145"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0015_copy_126x145.png" x="434" y="145"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0006_copy_126x145.png" x="434" y="0"  width="125" height="141" frameX="-1" frameY="-4" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0004_copy_126x145.png" x="559" y="0" width="138" height="122" rotated="true"  frameX="-1" frameY="-7" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0005_copy_126x145.png" x="559" y="122" width="137" height="123" rotated="true"  frameX="-1" frameY="-7" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0002_copy_126x145.png" x="559" y="245" width="133" height="122" rotated="true"  frameX="-1" frameY="-12" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0003_copy_126x145.png" x="559" y="367"  width="122" height="133" frameX="-1" frameY="-11" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0000_copy_126x145.png" x="343" y="290" width="132" height="125" rotated="true"  frameX="-0" frameY="-12" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0001_copy_126x145.png" x="343" y="415"  width="125" height="132" frameX="-0" frameY="-12" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Down0001_copy_150x121.png" x="340" y="577" width="112" height="150" rotated="true"  frameX="-0" frameY="-9" frameWidth="150" frameHeight="121"/>
+  <SubTexture name="Eggman_Idle0007_copy_126x145.png" x="434" y="0"  width="125" height="141" frameX="-1" frameY="-4" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0009_copy_126x145.png" x="567" y="577"  width="125" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0014_copy_126x145.png" x="310" y="145"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0016_copy_126x145.png" x="434" y="145"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0017_copy_126x145.png" x="434" y="145"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Idle0018_copy_126x145.png" x="434" y="145"  width="124" height="145" frameX="-1" frameY="-0" frameWidth="126" frameHeight="145"/>
+  <SubTexture name="Eggman_Left0001_copy_169x170.png" x="174" y="407"  width="169" height="170" frameX="-0" frameY="-0" frameWidth="169" frameHeight="170"/>
+  <SubTexture name="Eggman_Right0001_copy_175x190.png" x="0" y="407"  width="174" height="189" frameX="-0" frameY="-1" frameWidth="175" frameHeight="190"/>
+  <SubTexture name="Eggman_Up0001_copy_187x205.png" x="0" y="0"  width="186" height="205" frameX="-0" frameY="-0" frameWidth="187" frameHeight="205"/>
+</TextureAtlas>

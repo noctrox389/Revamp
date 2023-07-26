@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="beast1.png" width="1488" height="1672">
+  <SubTexture name="Beast_UP0000_copy_288x408.png" x="0" y="0" width="408" height="288" rotated="true"  frameX="-0" frameY="-0" frameWidth="288" frameHeight="408"/>
+  <SubTexture name="Beast_UP0002_copy_288x408.png" x="408" y="0" width="402" height="285" rotated="true"  frameX="-3" frameY="-5" frameWidth="288" frameHeight="408"/>
+  <SubTexture name="Beast_IDLE0010_copy_278x398.png" x="810" y="0" width="398" height="268" rotated="true"  frameX="-5" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_LAUGH0000_copy_274x303.png" x="1208" y="0"  width="274" height="303" frameX="-0" frameY="-0" frameWidth="274" frameHeight="303"/>
+  <SubTexture name="Beast_IDLE0012_copy_278x398.png" x="810" y="268" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0014_copy_278x398.png" x="408" y="285" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0015_copy_278x398.png" x="0" y="288" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0008_copy_278x398.png" x="1208" y="303"  width="273" height="391" frameX="-0" frameY="-7" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0006_copy_278x398.png" x="806" y="536" width="388" height="262" rotated="true"  frameX="-12" frameY="-9" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_LAUGH0002_copy_274x303.png" x="1194" y="694" width="294" height="263" rotated="true"  frameX="-1" frameY="-9" frameWidth="274" frameHeight="303"/>
+  <SubTexture name="Beast_IDLE0000_copy_278x398.png" x="806" y="957" width="386" height="263" rotated="true"  frameX="-15" frameY="-11" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0004_copy_278x398.png" x="398" y="553" width="386" height="259" rotated="true"  frameX="-14" frameY="-11" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0002_copy_278x398.png" x="0" y="556" width="384" height="262" rotated="true"  frameX="-15" frameY="-13" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_LEFT0000_copy_392x341.png" x="384" y="812"  width="370" height="341" frameX="-0" frameY="-0" frameWidth="392" frameHeight="341"/>
+  <SubTexture name="Beast_LEFT0001_copy_392x341.png" x="0" y="818"  width="370" height="341" frameX="-0" frameY="-0" frameWidth="392" frameHeight="341"/>
+  <SubTexture name="Beast_DOWN0002_copy_246x350.png" x="1192" y="957"  width="246" height="350" frameX="-0" frameY="-0" frameWidth="246" frameHeight="350"/>
+  <SubTexture name="Beast_LEFT0002_copy_392x341.png" x="0" y="1307" width="341" height="365" rotated="true"  frameX="-11" frameY="-0" frameWidth="392" frameHeight="341"/>
+  <SubTexture name="Beast_RIGHT0002_copy_334x360.png" x="341" y="1307"  width="324" height="350" frameX="-8" frameY="-10" frameWidth="334" frameHeight="360"/>
+  <SubTexture name="Beast_RIGHT0000_copy_334x360.png" x="665" y="1307"  width="325" height="349" frameX="-9" frameY="-11" frameWidth="334" frameHeight="360"/>
+  <SubTexture name="Beast_DOWN0000_copy_246x350.png" x="990" y="1307"  width="246" height="329" frameX="-0" frameY="-20" frameWidth="246" frameHeight="350"/>
+  <SubTexture name="Beast_DOWN0001_copy_246x350.png" x="1236" y="1307"  width="246" height="329" frameX="-0" frameY="-19" frameWidth="246" frameHeight="350"/>
+  <SubTexture name="Beast_IDLE0001_copy_278x398.png" x="806" y="957" width="386" height="263" rotated="true"  frameX="-15" frameY="-11" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0003_copy_278x398.png" x="0" y="556" width="384" height="262" rotated="true"  frameX="-15" frameY="-13" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0005_copy_278x398.png" x="398" y="553" width="386" height="259" rotated="true"  frameX="-14" frameY="-11" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0007_copy_278x398.png" x="806" y="536" width="388" height="262" rotated="true"  frameX="-12" frameY="-9" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0009_copy_278x398.png" x="1208" y="303"  width="273" height="391" frameX="-0" frameY="-7" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0011_copy_278x398.png" x="810" y="0" width="398" height="268" rotated="true"  frameX="-5" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0013_copy_278x398.png" x="810" y="268" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0016_copy_278x398.png" x="0" y="288" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0017_copy_278x398.png" x="0" y="288" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0018_copy_278x398.png" x="0" y="288" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_IDLE0019_copy_278x398.png" x="0" y="288" width="398" height="268" rotated="true"  frameX="-4" frameY="-0" frameWidth="278" frameHeight="398"/>
+  <SubTexture name="Beast_LAUGH0001_copy_274x303.png" x="1208" y="0"  width="274" height="303" frameX="-0" frameY="-0" frameWidth="274" frameHeight="303"/>
+  <SubTexture name="Beast_RIGHT0001_copy_334x360.png" x="665" y="1307"  width="325" height="349" frameX="-9" frameY="-11" frameWidth="334" frameHeight="360"/>
+  <SubTexture name="Beast_UP0001_copy_288x408.png" x="0" y="0" width="408" height="288" rotated="true"  frameX="-0" frameY="-0" frameWidth="288" frameHeight="408"/>
+</TextureAtlas>

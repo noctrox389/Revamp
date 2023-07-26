@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Metalsonic1.png" width="1168" height="1350">
+  <SubTexture name="MetalUP0000_copy_258x392.png" x="0" y="0" width="386" height="238" rotated="true"  frameX="-0" frameY="-5" frameWidth="258" frameHeight="392"/>
+  <SubTexture name="MetalUP0002_copy_258x392.png" x="386" y="0" width="383" height="234" rotated="true"  frameX="-9" frameY="-6" frameWidth="258" frameHeight="392"/>
+  <SubTexture name="MetalIDLE0002_copy_251x390.png" x="769" y="0" width="380" height="225" rotated="true"  frameX="-11" frameY="-6" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalLEFT0002_copy_294x388.png" x="769" y="225" width="379" height="256" rotated="true"  frameX="-23" frameY="-7" frameWidth="294" frameHeight="388"/>
+  <SubTexture name="MetalIDLE0000_copy_251x390.png" x="386" y="234" width="379" height="218" rotated="true"  frameX="-13" frameY="-7" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalLEFT0000_copy_294x388.png" x="0" y="238" width="378" height="274" rotated="true"  frameX="-0" frameY="-6" frameWidth="294" frameHeight="388"/>
+  <SubTexture name="MetalIDLE0004_copy_251x390.png" x="378" y="452" width="378" height="234" rotated="true"  frameX="-7" frameY="-7" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0005_copy_251x390.png" x="0" y="512" width="378" height="234" rotated="true"  frameX="-7" frameY="-7" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0006_copy_251x390.png" x="756" y="481" width="377" height="248" rotated="true"  frameX="-3" frameY="-8" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0008_copy_251x390.png" x="378" y="686" width="375" height="248" rotated="true"  frameX="-3" frameY="-10" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0012_copy_251x390.png" x="0" y="746" width="375" height="248" rotated="true"  frameX="-3" frameY="-10" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalRIGHT0002_copy_372x330.png" x="0" y="994" width="305" height="356" rotated="true"  frameX="-1" frameY="-20" frameWidth="372" frameHeight="330"/>
+  <SubTexture name="MetalRIGHT0000_copy_372x330.png" x="305" y="994" width="304" height="356" rotated="true"  frameX="-1" frameY="-18" frameWidth="372" frameHeight="330"/>
+  <SubTexture name="metalDOWN0000_copy_283x313.png" x="609" y="934"  width="277" height="284" frameX="-0" frameY="-4" frameWidth="283" frameHeight="313"/>
+  <SubTexture name="metalDOWN0002_copy_283x313.png" x="886" y="934" width="282" height="266" rotated="true"  frameX="-13" frameY="-5" frameWidth="283" frameHeight="313"/>
+  <SubTexture name="MetalIDLE0001_copy_251x390.png" x="386" y="234" width="379" height="218" rotated="true"  frameX="-13" frameY="-7" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0003_copy_251x390.png" x="769" y="0" width="380" height="225" rotated="true"  frameX="-11" frameY="-6" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0007_copy_251x390.png" x="756" y="481" width="377" height="248" rotated="true"  frameX="-3" frameY="-8" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0009_copy_251x390.png" x="378" y="686" width="375" height="248" rotated="true"  frameX="-3" frameY="-10" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0010_copy_251x390.png" x="378" y="686" width="375" height="248" rotated="true"  frameX="-3" frameY="-10" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0011_copy_251x390.png" x="378" y="686" width="375" height="248" rotated="true"  frameX="-3" frameY="-10" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalIDLE0013_copy_251x390.png" x="0" y="746" width="375" height="248" rotated="true"  frameX="-3" frameY="-10" frameWidth="251" frameHeight="390"/>
+  <SubTexture name="MetalLEFT0001_copy_294x388.png" x="0" y="238" width="378" height="274" rotated="true"  frameX="-0" frameY="-6" frameWidth="294" frameHeight="388"/>
+  <SubTexture name="MetalRIGHT0001_copy_372x330.png" x="305" y="994" width="304" height="356" rotated="true"  frameX="-1" frameY="-18" frameWidth="372" frameHeight="330"/>
+  <SubTexture name="MetalUP0001_copy_258x392.png" x="0" y="0" width="386" height="238" rotated="true"  frameX="-0" frameY="-5" frameWidth="258" frameHeight="392"/>
+  <SubTexture name="metalDOWN0001_copy_283x313.png" x="609" y="934"  width="277" height="284" frameX="-0" frameY="-4" frameWidth="283" frameHeight="313"/>
+</TextureAtlas>

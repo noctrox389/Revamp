@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="x1.png" width="626" height="599">
+  <SubTexture name="Downinstance0001_copy_274x271.png" x="0" y="0" width="131" height="260" rotated="true"  frameX="-13" frameY="-140" frameWidth="274" frameHeight="271"/>
+  <SubTexture name="Upinstance0002_copy_231x266.png" x="0" y="260" width="114" height="226" rotated="true"  frameX="-4" frameY="-152" frameWidth="231" frameHeight="266"/>
+  <SubTexture name="Upinstance0001_copy_231x266.png" x="0" y="486"  width="110" height="113" frameX="-120" frameY="-153" frameWidth="231" frameHeight="266"/>
+  <SubTexture name="Upinstance0000_copy_231x266.png" x="110" y="486"  width="111" height="111" frameX="-117" frameY="-155" frameWidth="231" frameHeight="266"/>
+  <SubTexture name="Leftinstance0000_copy_255x231.png" x="221" y="486" width="97" height="111" rotated="true"  frameX="-139" frameY="-133" frameWidth="255" frameHeight="231"/>
+  <SubTexture name="Leftinstance0001_copy_255x231.png" x="318" y="486" width="100" height="109" rotated="true"  frameX="-142" frameY="-130" frameWidth="255" frameHeight="231"/>
+  <SubTexture name="Idleinstance0005_copy_197x223.png" x="418" y="486"  width="76" height="109" frameX="-119" frameY="-114" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Downinstance0000_copy_274x271.png" x="494" y="0" width="132" height="106" rotated="true"  frameX="-168" frameY="-138" frameWidth="274" frameHeight="271"/>
+  <SubTexture name="Downinstance0002_copy_274x271.png" x="494" y="106" width="127" height="115" rotated="true"  frameX="-157" frameY="-144" frameWidth="274" frameHeight="271"/>
+  <SubTexture name="Idleinstance0010_copy_197x223.png" x="114" y="260" width="108" height="194" rotated="true"  frameX="-2" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Rightinstance0000_copy_292x242.png" x="494" y="221"  width="123" height="96" frameX="-163" frameY="-145" frameWidth="292" frameHeight="242"/>
+  <SubTexture name="Rightinstance0001_copy_292x242.png" x="494" y="317"  width="119" height="97" frameX="-162" frameY="-144" frameWidth="292" frameHeight="242"/>
+  <SubTexture name="Rightinstance0002_copy_292x242.png" x="494" y="414"  width="119" height="97" frameX="-161" frameY="-144" frameWidth="292" frameHeight="242"/>
+  <SubTexture name="Idleinstance0002_copy_197x223.png" x="494" y="511" width="108" height="77" rotated="true"  frameX="-119" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0009_copy_197x223.png" x="131" y="0" width="108" height="193" rotated="true"  frameX="-3" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0006_copy_197x223.png" x="239" y="0" width="109" height="76" rotated="true"  frameX="-119" frameY="-114" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0012_copy_197x223.png" x="348" y="0" width="108" height="77" rotated="true"  frameX="-120" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0000_copy_197x223.png" x="239" y="76" width="108" height="76" rotated="true"  frameX="-120" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0001_copy_197x223.png" x="347" y="77" width="108" height="76" rotated="true"  frameX="-120" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0003_copy_197x223.png" x="239" y="152" width="108" height="76" rotated="true"  frameX="-119" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0004_copy_197x223.png" x="239" y="228" width="108" height="76" rotated="true"  frameX="-119" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0007_copy_197x223.png" x="239" y="304" width="108" height="76" rotated="true"  frameX="-120" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Leftinstance0002_copy_255x231.png" x="222" y="380" width="101" height="106" rotated="true"  frameX="-145" frameY="-129" frameWidth="255" frameHeight="231"/>
+  <SubTexture name="Idleinstance0008_copy_197x223.png" x="323" y="380" width="108" height="76" rotated="true"  frameX="-120" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0011_copy_197x223.png" x="347" y="153" width="108" height="76" rotated="true"  frameX="-120" frameY="-115" frameWidth="197" frameHeight="223"/>
+  <SubTexture name="Idleinstance0013_copy_197x223.png" x="347" y="229" width="108" height="76" rotated="true"  frameX="-120" frameY="-115" frameWidth="197" frameHeight="223"/>
+</TextureAtlas>

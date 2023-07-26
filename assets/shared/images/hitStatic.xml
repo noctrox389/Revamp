@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="hitStatic.png" width="821" height="680">
+  <SubTexture name="staticANIMATION0002_copy_321x180.png" x="0" y="0" width="180" height="321" rotated="true"  frameX="-0" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0005_copy_321x180.png" x="0" y="321" width="180" height="321" rotated="true"  frameX="-0" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0008_copy_321x180.png" x="180" y="0"  width="321" height="180" frameX="-0" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0000_copy_321x180.png" x="501" y="0"  width="320" height="180" frameX="-1" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0001_copy_321x180.png" x="180" y="180" width="180" height="320" rotated="true"  frameX="-1" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0003_copy_321x180.png" x="180" y="500"  width="320" height="180" frameX="-1" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0004_copy_321x180.png" x="360" y="180" width="180" height="320" rotated="true"  frameX="-1" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0006_copy_321x180.png" x="540" y="180" width="180" height="320" rotated="true"  frameX="-0" frameY="-0" frameWidth="321" frameHeight="180"/>
+  <SubTexture name="staticANIMATION0007_copy_321x180.png" x="500" y="500"  width="320" height="180" frameX="-1" frameY="-0" frameWidth="321" frameHeight="180"/>
+</TextureAtlas>

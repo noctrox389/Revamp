@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TheEmeralds instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "back/Emeralds",
+	"position": [
+		-660,
+		-470
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

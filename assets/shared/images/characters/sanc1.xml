@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="sanc1.png" width="531" height="516">
+  <SubTexture name="PAINTidle0006_copy_177x172.png" x="0" y="0"  width="177" height="169" frameX="-0" frameY="-3" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0007_copy_177x172.png" x="177" y="0"  width="177" height="169" frameX="-0" frameY="-3" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0004_copy_177x172.png" x="354" y="0"  width="177" height="167" frameX="-0" frameY="-5" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0002_copy_177x172.png" x="354" y="167"  width="177" height="164" frameX="-0" frameY="-8" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0000_copy_177x172.png" x="0" y="331" width="164" height="176" rotated="true"  frameX="-1" frameY="-8" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0010_copy_177x172.png" x="164" y="169"  width="175" height="172" frameX="-0" frameY="-0" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0008_copy_177x172.png" x="164" y="341" width="171" height="175" rotated="true"  frameX="-0" frameY="-1" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0009_copy_177x172.png" x="335" y="341" width="171" height="175" rotated="true"  frameX="-0" frameY="-1" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0001_copy_177x172.png" x="0" y="331" width="164" height="176" rotated="true"  frameX="-1" frameY="-8" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0003_copy_177x172.png" x="354" y="167"  width="177" height="164" frameX="-0" frameY="-8" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0005_copy_177x172.png" x="354" y="0"  width="177" height="167" frameX="-0" frameY="-5" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0011_copy_177x172.png" x="164" y="169"  width="175" height="172" frameX="-0" frameY="-0" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0012_copy_177x172.png" x="164" y="169"  width="175" height="172" frameX="-0" frameY="-0" frameWidth="177" frameHeight="172"/>
+  <SubTexture name="PAINTidle0013_copy_177x172.png" x="164" y="169"  width="175" height="172" frameX="-0" frameY="-0" frameWidth="177" frameHeight="172"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1298,
+				1115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Leftinstance"
+		},
+		{
+			"offsets": [
+				825,
+				1090
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idleinstance"
+		},
+		{
+			"offsets": [
+				1290,
+				1420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Downinstance"
+		},
+		{
+			"offsets": [
+				1005,
+				1223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rightinstance"
+		},
+		{
+			"offsets": [
+				819,
+				1413
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Upinstance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/x1",
+	"position": [
+		220,
+		1110
+	],
+	"healthicon": "lord",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-1670,
+		-1730
+	],
+	"sing_duration": 4,
+	"scale": 8
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Tails_Rush_Test1.png" width="446" height="489">
+  <SubTexture name="Tails_Rush_Test_Left0000_copy_129x136.png" x="0" y="0"  width="129" height="136" frameX="-0" frameY="-0" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Left0001_copy_129x136.png" x="0" y="136"  width="129" height="136" frameX="-0" frameY="-0" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Up0001_copy_129x136.png" x="0" y="272"  width="100" height="128" frameX="-28" frameY="-8" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Right0001_copy_129x136.png" x="0" y="400" width="107" height="88" rotated="true"  frameX="-31" frameY="-21" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Idle0003_copy_129x136.png" x="100" y="272"  width="96" height="120" frameX="-32" frameY="-15" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Down0001_copy_129x136.png" x="107" y="392"  width="110" height="97" frameX="-15" frameY="-30" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Idle0000_copy_129x136.png" x="217" y="392" width="107" height="97" rotated="true"  frameX="-30" frameY="-21" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Right0002_copy_129x136.png" x="324" y="0" width="117" height="100" rotated="true"  frameX="-28" frameY="-19" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Idle0002_copy_129x136.png" x="196" y="0" width="113" height="93" rotated="true"  frameX="-32" frameY="-15" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Down0000_copy_129x136.png" x="196" y="93"  width="112" height="91" frameX="-13" frameY="-36" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Right0003_copy_129x136.png" x="129" y="184" width="107" height="87" rotated="true"  frameX="-29" frameY="-21" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Idle0001_copy_129x136.png" x="196" y="271"  width="95" height="110" frameX="-31" frameY="-18" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Right0000_copy_129x136.png" x="236" y="184" width="106" height="87" rotated="true"  frameX="-32" frameY="-22" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Up0000_copy_129x136.png" x="308" y="271"  width="92" height="109" frameX="-33" frameY="-1" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Down0002_copy_129x136.png" x="324" y="380" width="94" height="108" rotated="true"  frameX="-17" frameY="-33" frameWidth="129" frameHeight="136"/>
+  <SubTexture name="Tails_Rush_Test_Left0002_copy_129x136.png" x="342" y="100" width="104" height="101" rotated="true"  frameX="-2" frameY="-25" frameWidth="129" frameHeight="136"/>
+</TextureAtlas>

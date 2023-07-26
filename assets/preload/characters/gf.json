@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-6
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "scared",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/encore gf1",
+	"position": [
+		260,
+		310
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-10,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 2.75
+}

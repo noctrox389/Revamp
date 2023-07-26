@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PhantomNote.png">
+<SubTexture name="blue0000" x="187" y="0" width="188" height="187" frameX="-2" frameY="-1" frameWidth="196" frameHeight="193" />
+<SubTexture name="green0000" x="182" y="188" width="177" height="176" frameX="-2" frameY="-1" frameWidth="184" frameHeight="181" />
+<SubTexture name="purple0000" x="0" y="188" width="182" height="183" frameX="-1" frameY="-2" frameWidth="187" frameHeight="190" />
+<SubTexture name="red0000" x="0" y="0" width="187" height="188" frameX="-1" frameY="-3" frameWidth="193" frameHeight="196" />
+</TextureAtlas>

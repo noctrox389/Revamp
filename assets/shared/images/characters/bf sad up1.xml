@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf sad up1.png" width="630" height="598">
+  <SubTexture name="up0000_copy_146x200.png" x="0" y="0"  width="146" height="200" frameX="-0" frameY="-0" frameWidth="146" frameHeight="200"/>
+  <SubTexture name="up0001_copy_146x200.png" x="0" y="200"  width="146" height="200" frameX="-0" frameY="-0" frameWidth="146" frameHeight="200"/>
+  <SubTexture name="up0002_copy_146x200.png" x="0" y="400"  width="144" height="198" frameX="-0" frameY="-2" frameWidth="146" frameHeight="200"/>
+  <SubTexture name="idle0004_copy_114x192.png" x="144" y="400"  width="114" height="192" frameX="-0" frameY="-0" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="idle0006_copy_114x192.png" x="258" y="400"  width="114" height="192" frameX="-0" frameY="-0" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="idle0008_copy_114x192.png" x="372" y="0" width="192" height="114" rotated="true"  frameX="-0" frameY="-0" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="idle0000_copy_114x192.png" x="146" y="0" width="189" height="114" rotated="true"  frameX="-0" frameY="-3" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="idle0002_copy_114x192.png" x="372" y="114" width="189" height="114" rotated="true"  frameX="-0" frameY="-3" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="left0002_copy_154x187.png" x="146" y="228" width="187" height="152" rotated="true"  frameX="-1" frameY="-0" frameWidth="154" frameHeight="187"/>
+  <SubTexture name="right0002_copy_115x186.png" x="146" y="114" width="186" height="114" rotated="true"  frameX="-0" frameY="-0" frameWidth="115" frameHeight="186"/>
+  <SubTexture name="left0000_copy_154x187.png" x="333" y="228" width="187" height="150" rotated="true"  frameX="-0" frameY="-0" frameWidth="154" frameHeight="187"/>
+  <SubTexture name="down0002_copy_113x176.png" x="520" y="228"  width="110" height="176" frameX="-1" frameY="-0" frameWidth="113" frameHeight="176"/>
+  <SubTexture name="right0000_copy_115x186.png" x="372" y="378"  width="115" height="186" frameX="-0" frameY="-0" frameWidth="115" frameHeight="186"/>
+  <SubTexture name="down0000_copy_113x176.png" x="487" y="404"  width="113" height="175" frameX="-0" frameY="-1" frameWidth="113" frameHeight="176"/>
+  <SubTexture name="down0001_copy_113x176.png" x="487" y="404"  width="113" height="175" frameX="-0" frameY="-1" frameWidth="113" frameHeight="176"/>
+  <SubTexture name="idle0001_copy_114x192.png" x="146" y="0" width="189" height="114" rotated="true"  frameX="-0" frameY="-3" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="idle0003_copy_114x192.png" x="372" y="114" width="189" height="114" rotated="true"  frameX="-0" frameY="-3" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="idle0005_copy_114x192.png" x="144" y="400"  width="114" height="192" frameX="-0" frameY="-0" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="idle0007_copy_114x192.png" x="258" y="400"  width="114" height="192" frameX="-0" frameY="-0" frameWidth="114" frameHeight="192"/>
+  <SubTexture name="left0001_copy_154x187.png" x="333" y="228" width="187" height="150" rotated="true"  frameX="-0" frameY="-0" frameWidth="154" frameHeight="187"/>
+  <SubTexture name="right0001_copy_115x186.png" x="372" y="378"  width="115" height="186" frameX="-0" frameY="-0" frameWidth="115" frameHeight="186"/>
+</TextureAtlas>

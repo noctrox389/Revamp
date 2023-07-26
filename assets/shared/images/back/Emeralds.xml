@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Emeralds.png">
+<SubTexture name="TheEmeralds instance 0000" x="0" y="0" width="947" height="574" frameX="0" frameY="0" frameWidth="951" frameHeight="614" />
+</TextureAtlas>
